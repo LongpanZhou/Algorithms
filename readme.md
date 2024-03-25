@@ -10,3 +10,6 @@ Feb 15, 2024
 * Rabin-Karp
 * Knuth-Morris-Pratt (KMP)
 * Z-function
+
+March 24, 2024
+* Trie
